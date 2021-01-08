@@ -96,14 +96,14 @@ def about_rsactftool():
 	statusvar.set("Done")
 
 def about_rsactftool_gui():
-	open_web("https://github.com/Hellsender01/RsaCtfTool-GUI")
+	open_web("https://github.com/Hellsender01/RsaCtfTool-GUI#RsaCtfTool-GUI")
 	statusvar.set("Done")
 
 def about_author():
 	open_web("https://github.com/Hellsender01")
 	statusvar.set("Done")
 def help():
-	open_web("https://github.com/Hellsender01/RsaCtfTool-GUI")
+	open_web("https://github.com/Hellsender01/RsaCtfTool-GUI#Test")
 	statusvar.set("Done")
 # Creating Intial Style
 root = Tk()
