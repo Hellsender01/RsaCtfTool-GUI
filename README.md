@@ -1,7 +1,8 @@
-# RsaCtfTool-GUI
+# RsaCtfTool-GUI 
+
 **Graphical User Interface For ![RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)**
 
-![](gui.png)
+![](favicon.png)
 
 **RsaCtfTool-GUI Is Not Heavily Maintained** 
 
@@ -15,3 +16,7 @@ sudo bash setup.sh
 # Test
 
 To test the working of RsaCtfTool-GUI, Open ![testfile.txt](testfile.txt) in RsaCtfTool(from file menu) and hit start attack. After finishing you should get the flag.
+
+# ScreenShot
+
+![](gui.png)
